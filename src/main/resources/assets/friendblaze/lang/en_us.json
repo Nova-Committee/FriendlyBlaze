@@ -1,0 +1,16 @@
+{
+  "item.friendblaze.blaze_ring.custom_name": "%s's FriendBlaze",
+  "item.friendblaze.blaze_ring.exausted": "%s is too exausted to come out, maybe some special food item on ground will help",
+  "item.friendblaze.blaze_ring.fail": "Failed!",
+  "entity.friendblaze.blaze.your_blaze": "%s couldn't hear you...",
+  "entity.friendblaze.blaze.level_up": "%s has reached level %d!",
+  "entity.friendblaze.blaze.level_up_health": "%d health",
+  "entity.friendblaze.blaze.level_up_attack": "%d attack",
+  "entity.friendblaze.blaze.level_up_speed": "%d%% mov. speed",
+  "gui.friendblaze.blaze.exp": "Exp",
+  "gui.friendblaze.blaze.max": "MAX",
+  "gui.friendblaze.blaze.health": "Health",
+  "gui.friendblaze.blaze.attack": "Attack",
+  "gui.friendblaze.blaze.speed": "Speed",
+  "item.friendblaze.ring_blaze": "Blaze Ring"
+}

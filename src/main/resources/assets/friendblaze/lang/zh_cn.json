@@ -1,0 +1,16 @@
+{
+  "item.friendblaze.blaze_ring.custom_name": "%s 的烈焰人",
+  "item.friendblaze.blaze_ring.exausted": "%s精疲力尽，无法现身。在地上放些特别的食物或许有所帮助",
+  "item.friendblaze.blaze_ring.fail": "%s 听不见你的召唤...",
+  "entity.friendblaze.blaze.your_blaze": "你的烈焰人",
+  "entity.friendblaze.blaze.level_up": "%s已升至 %d 级！",
+  "entity.friendblaze.blaze.level_up_health": "%d 生命值",
+  "entity.friendblaze.blaze.level_up_attack": "%d 攻击",
+  "entity.friendblaze.blaze.level_up_speed": "%d%% 移动速度",
+  "gui.friendblaze.blaze.exp": "经验",
+  "gui.friendblaze.blaze.max": "上限",
+  "gui.friendblaze.blaze.health": "生命",
+  "gui.friendblaze.blaze.attack": "攻击",
+  "gui.friendblaze.blaze.speed": "速度",
+  "item.friendblaze.ring_blaze": "召唤之戒"
+}
