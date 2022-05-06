@@ -13,10 +13,6 @@ public class Cache<T> implements Supplier<T> {
         this.getter = getterIn;
     }
 
-    public static <T> Cache<T> make(Supplier<T> getterIn) {
-        return new Cache<>(getterIn);
-    }
-
     @Override
     public T get() {
         if (this.value == null) {
@@ -32,6 +28,10 @@ public class Cache<T> implements Supplier<T> {
 
     public void markForRefresh() {
         this.value = null;
+    }
+
+    public static <T> Cache<T> make(Supplier<T> getterIn) {
+        return new Cache<>(getterIn);
     }
 
 }
